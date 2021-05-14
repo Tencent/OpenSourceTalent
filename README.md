@@ -27,7 +27,23 @@ Tencent Rhino-bird Open-source Training Program
 3. 开源项目实战：面向6月21日前完成报名且提交proposal&通过筛选的同学，1个学生最多提交3份proposal
 
 ## 开源专家
-EXCEL表所有专家和title列举
+
+|姓名|title | 姓名 | title|
+| -- | -- | -- | -- |
+| 邵赛赛 | Apache member, Apachespark PMC, Apache Livy PPMC | 陈怡 |Apache Ozone PMC Chair, Apache Hadoop PMC | 
+| 杨晓峰 | openJDK Author&Commiter,CCF系统软件专委委员 |李万鹏 |Linux内核核心开发者，KVM虚拟化开源社区reviewer | 
+| 张峻 | SuperEdge边缘容器开源项目联合发起人，Harbor镜像仓库开源项目联合发起人 | 倪辉 | ncnn作者| 
+| 利开园 |TARS项目核心维护者，技术布道师| 姚达 | TNN框架技术负责人 | 
+| 张国成 | Apache TubeMQ社区的PPMC | 张磊 | 跨框架框架作者, Kbone Contributor | 
+| 郑苏波 | Node.js Contributor，GMTC出品人，Hippy总负责人|汪礼超 | TencentOS tiny核心架构师 | 
+| 陈一苇 | Linux Foundation APAC 开源布道者，SuperEdge发起人之一 | 费辉 |Apache Ozone Committer | 
+| 耿斌 | Apache Ozone Committer | 赵明超 | Apache Ozone Committer  | 
+| 欧阳文 |Angel开源项目技术负责人| 汝英哲 | TKEStack开源项目负责人 | 
+| 李晓森 | Angel开源项目技术负责人 | 施慧 |OpenJDK Author、KonaJDK架构师| 
+| 周作彪 | APIJSON, ZBLibrary 等热门开源项目的作者 | 傅杰 | OpenJDK Committer | 
+| 王星晨 |TNN框架CPU侧架构师 | 赵健 | TencentOS tiny架构师 | 
+|田恒锋 |TNN框架CPU侧架构师 | 王世伟 |TencentOS tiny布道师 | 
+
 
 ## 赛事指南
 
