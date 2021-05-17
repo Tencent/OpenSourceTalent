@@ -7,7 +7,8 @@ Tencent Rhino-bird Open-source Training Program
 更多项目信息请看：[https://opensource.tencent.com//summer-of-code](https://opensource.tencent.com//summer-of-code)
 
 ## “腾讯犀牛鸟开源人才培养计划”-指导委员会专家（按姓氏首字母排序）
-（摆图片）
+![image](https://user-images.githubusercontent.com/82629753/118487572-70564980-b74d-11eb-86b8-bc1420d91aa8.png)
+
 
 ## 培养模式
 
