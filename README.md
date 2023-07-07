@@ -7,5 +7,5 @@ Tencent Rhino-bird Open-source Training Program
 
 各位同学报名即可参加线上开源系列课程，学习开源知识，对话学界及产业界大咖。其中入选开源项目实战的学生将在导师的一对一指导下，开展编程实战，并有机会获
 得腾讯开源贡献者证书（目前全球只发出了30+张）。
-更多项目信息请看：[https://opensource.tencent.com//summer-of-code](https://opensource.tencent.com//summer-of-code)
+更多项目信息请看：[https://opensource.tencent.com//summer-of-code](https://opensource.tencent.com/summer-of-code)
 
